@@ -5,7 +5,7 @@ source "https://rubygems.org"
 gem 'nokogiri'
 
 # Database
-gem 'sqlite3', '~>1.3.6'
+gem 'sqlite3', '~>1.4'
 
 # Testing
 gem 'rspec', '>= 3.0'
